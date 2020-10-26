@@ -87,7 +87,7 @@ h6.card-title a{
 }
 
 h6.card-title a:hover{
-	color:rgba(255,255,255,1)	
+	color:rgba(255,255,255,1);	
 	text-decoration:none;
 }
 
@@ -96,3 +96,10 @@ p.card-text{
 	letter-spacing:0.05rem;
 	color:rgba(255,255,255,0.5);
 }
+.st0{display:none;}
+.st1{display:inline;fill:#009444;}
+.st2{fill:#2CB565;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+.st3{fill:#2CB565;stroke:#FFFFFF;stroke-miterlimit:10;}
+.st4{fill:#FFFFFF;}
+.st5{font-family:'Roboto';}
+.st6{font-size:16px;}
